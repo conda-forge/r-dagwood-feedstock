@@ -1,11 +1,11 @@
-About r-dagwood
-===============
+About r-dagwood-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dagwood-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=dagwood
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-dagwood-feedstock/blob/main/LICENSE.txt)
 
 Summary: DAGs With Omitted Objects Displayed (DAGWOOD) is a framework to help reveal key hidden assumptions in a causal DAG. This package provides an implementation of the DAGWOOD algorithm. Further description can be found in Haber et al (2022) <DOI:10.1016/j.annepidem.2022.01.001>.
 
